@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meeraraghuvanshi001
 - 👀 I’m interested in exploring the world.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning JAVA and MATLAB.
 - 💞️ I’m looking to collaborate on the projects based on python and web development.
 - 📫 How to reach me  Gmail: meeraraghuvanshi201718@gmail.com.
 
